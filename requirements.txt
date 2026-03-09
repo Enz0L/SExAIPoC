@@ -1,0 +1,5 @@
+keyring
+fofa
+requests
+langchain_ollama
+langchain_core
