@@ -29,7 +29,7 @@ Originally a Proof of Concept linked to [this article](https://enzolenair.fr/202
 python3 PoC.py
 ```
 
-On first run, you will be prompted for your FOFA credentials. These are stored securely in **GNOME Keyring** and never written to disk.
+On first run, you will be prompted for your FOFA credentials. These are stored securely in **GNOME Keyring**.
 
 Each run then asks:
 - **FOFA query** — the search query to run against FOFA
